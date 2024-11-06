@@ -34,7 +34,7 @@ To set up, clone the project repository and install the required packages:
 
 bash
 Copy code
-git clone https://github.com/zenml-io/zenml-projects.git
+git clone [https://github.com/zenml-io/zenml-projects.git](https://github.com/Chitransh1234/Customer_Satisfaction_Predictor)
 cd zenml-projects/customer-satisfaction
 pip install -r requirements.txt
 Running the Pipelines
